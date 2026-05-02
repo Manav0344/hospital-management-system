@@ -1,5 +1,7 @@
 # 🏥 MediCare Hospital Management System
 
+https://hospital-management-system-pearl-three.vercel.app/
+
 A **production-quality, full-stack Hospital Management System** built with Next.js 14, Tailwind CSS, MongoDB, and NextAuth. Designed to showcase SaaS-level engineering and modern UI/UX.
 
 ![MediCare](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
